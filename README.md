@@ -110,3 +110,6 @@ Passing filters query inside query string and handling them in the index method 
 
 ## Customizing Login and Registration Pages with Built-in Auth
 In your login or registration pages, change the form submit action (basically changing the routes) and ensure that the name and other attributes of input fields in your form match those in the built-in pages.
+
+## Demo Video
+You can find project demo video (.mp4) inside READE_ME forlder.
