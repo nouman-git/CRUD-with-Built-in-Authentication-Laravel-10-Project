@@ -113,3 +113,6 @@ In your login or registration pages, change the form submit action (basically ch
 
 ## Demo Video
 You can find project demo video (.mp4) inside READE_ME forlder.
+
+## Author
+[Nouman Yousaf]
