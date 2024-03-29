@@ -9,6 +9,9 @@
 
 # CRUD with Built-in Authentication Laravel
 
+## Demo Video
+https://www.youtube.com/watch?v=hyhPdOhBLe4
+
 ## Key Features
 - Built-in Authentication with Laravel Breeze Blade component package.
 - Customized Frontend for Login, Registration, Forgot Password, and Reset Password Pages.
@@ -110,9 +113,6 @@ Passing filters query inside query string and handling them in the index method 
 
 ## Customizing Login and Registration Pages with Built-in Auth
 In your login or registration pages, change the form submit action (basically changing the routes) and ensure that the name and other attributes of input fields in your form match those in the built-in pages.
-
-## Demo Video
-You can find project demo video (.mp4) inside READE_ME forlder.
 
 ## Author
 [Nouman Yousaf]
